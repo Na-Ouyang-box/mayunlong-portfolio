@@ -1,0 +1,18 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 简历源文件
+*.pdf
+*.ai
+*.psd
+*.docx
+
+# 原始未压缩视频（不带work前缀的）
+AI广告片：*.mp4
+口播：*.mp4
+广告片：*.mp4
+美妆测评：*.mp4
+课程切片：*.mp4
+*_x264.mp4
